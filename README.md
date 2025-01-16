@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgearhart27
 - 👀 I’m interested in building web sites and web apps as well as machine learning.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning HTML, CSS, JS, and Python.
 - 💞️ I’m looking to collaborate on building projects so that I can learn new concepts and test out learned concepts.
 - 📫 How to reach me: jgearhart27@gmail.com
 - 😄 Pronouns: He/Him
